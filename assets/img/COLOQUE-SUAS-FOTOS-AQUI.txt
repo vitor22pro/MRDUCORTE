@@ -1,0 +1,1 @@
+Coloque nesta pasta a logo e as fotos reais da barbearia. Depois atualize os caminhos no index.html.
